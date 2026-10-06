@@ -1,5 +1,7 @@
 # ffind - fast find
 
+Note: I have used it for 5 months now on gentoo and I have never had any issues and my searched files were always found within miliseconds. <br>
+
 ffind is an alternative to plocate (and also mlocate) due to them being so bloated. It focues on minimalism, speed and efficiency.
 
 ## Installation
